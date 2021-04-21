@@ -1,4 +1,5 @@
-image: jelaniwoods/appdev2021-base-rails
+image:
+  file: Dockerfile
 
 tasks:
   - init: bin/setup 
